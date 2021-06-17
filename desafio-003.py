@@ -1,4 +1,4 @@
-print('========== DESAFIO 03 ==========')
+print('========== DESAFIO 003 ==========')
 
 n1 = input('Digíte um número: ')
 n2 = input('Digíte outro número: ')
